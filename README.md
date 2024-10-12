@@ -4,9 +4,6 @@
 
 ## 安装方法
 
-由于我刚注册 Greasy Fork，还无法发布脚本，因此只能在 Github 下载。具体步骤如下：
+确保您的浏览器中安装了篡改猴（Tampermonkey）插件。（[下载地址](https://www.tampermonkey.net/)）
 
-1. 在您的浏览器的扩展商店中安装插件 Tampermonkey。
-1. 下载本库中的源代码。
-1. 打开 Tampermonkey 的管理界面。将 `HFLS OA Toolbox.js` 拖入该界面。
-1. 点击『安装』。
+前往 [此网址](https://greasyfork.org/zh-CN/scripts/512360-hfls-oa-toolbox)，点击『安装此脚本』即可。
