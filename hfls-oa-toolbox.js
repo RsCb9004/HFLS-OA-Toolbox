@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         HFLS OA Toolbox
-// @namespace    https://www.luogu.com.cn/blog/RsCb/
+// @namespace    https://rscb9004.github.io/
 // @version      0.1
 // @description  Fill in the teaching evaluation survey of HFLS.
 // @author       RsCb
 // @match        http://oa.chinahw.net:8088/*
-// @icon         https://cdn.luogu.com.cn/upload/image_hosting/6g7qu0rk.png
+// @icon         https://cdn.luogu.com.cn/upload/usericon/277650.png
 // @grant        none
 // ==/UserScript==
 
@@ -142,15 +142,16 @@ teachingEval.submit = function(){
 };
 
 var inf = `\
-米娜桑：
-    Ciallo！
-    来自高一７的脚本作者 RsCb Da☆ze！感谢您使用该脚本～
-    该脚本旨在使大家得到更舒适的校园 OA 使用体验。目前，该脚本只有自动填写评教调查这一功能，后续可能会加入更多功能，敬请期待吧！
-    如果遇到 bug 的话，欢迎 email(<a herf="RsCb9004@163.com">RsCb9004@163.com</a>)！
-    但是怎么会有人用这么无聊的东西呢，刚刚只是在和空气讲话吧……
+之前的私宅鹅心发言被我删了，kimo。
+总之这是一个帮助你自动填写评教调查的脚本。显然 zjx 已经教你怎么用了。
+提一嘴，本人已接近毕业，之后此脚本估计不会添加新功能的。
+本来我要写一个抢课功能的，然后发现沟槽的羽毛球课即使开挂也抢不到，遂破防，不写了。
+总之这个更新只改了这一段话，以及这个文件名。我一开始是在浏览自己的 Github 仓库，\
+突然发现这个文件名实在是唐，于是才来改的，顺便把这段话也改了。
+就这样，希望你拥有美好的每一天。
 <div style="text-align:right">
 RsCb
-2023.6.18
+2024/10/12
 </div>
 `;
 
